@@ -1,5 +1,5 @@
 {
-  "name": "com.scellecs.morpeh",
+  "name": "com.fill.morpeh",
   "author": "Scellecs",
   "displayName": "Morpeh",
   "description": "Fast and Simple ECS Framework for Unity Game Engine.",
@@ -12,6 +12,6 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/scellecs/morpeh"
+    "url": "https://github.com/fill/morpeh"
   }
 }
